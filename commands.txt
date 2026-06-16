@@ -1,0 +1,5 @@
+aws configure
+pip install boto3
+python create_s3.py
+python create_ec2.py
+aws s3 ls
