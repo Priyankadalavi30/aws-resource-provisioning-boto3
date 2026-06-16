@@ -89,5 +89,4 @@ Python Script
 ![S3 Bucket](screenshots/bucket.png)
 
 ## Author
-
 Priyanka Dalavi
