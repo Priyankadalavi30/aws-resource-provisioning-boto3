@@ -77,6 +77,16 @@ Python Script
 * Amazon EC2 Automation
 * Infrastructure as Code (IaC)
 
+## Project Screenshots
+
+### AWS CLI Configuration
+![AWS CLI](screenshots/cli.PNG)
+
+### S3 Automation Script
+![Create S3](screenshots/create_s3.jpg)
+
+
+
 ## Author
 
 Priyanka Dalavi
