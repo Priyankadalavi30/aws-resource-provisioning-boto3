@@ -85,7 +85,8 @@ Python Script
 ### S3 Automation Script
 ![Create S3](screenshots/create_s3.jpg)
 
-
+### S3 Bucket Created
+![S3 Bucket](screenshots/bucket.png)
 
 ## Author
 
