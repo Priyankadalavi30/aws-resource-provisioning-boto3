@@ -45,21 +45,29 @@ Contains commands used during project execution.
 
 Install Boto3:
 
+```bash
 pip install boto3
+```
 
 Configure AWS CLI:
 
+```bash
 aws configure
+```
 
 ## Run the Scripts
 
 Create S3 Bucket:
 
+```bash
 python create_s3.py
+```
 
 Create EC2 Instance:
 
+```bash
 python create_ec2.py
+```
 
 ## Project Workflow
 
