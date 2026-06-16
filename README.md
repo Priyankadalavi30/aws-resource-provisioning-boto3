@@ -94,7 +94,7 @@ Python Script
 ![Create S3](screenshots/create_s3.jpg)
 
 ### S3 Bucket Created
-![S3 Bucket](screenshots/bucket.png)
+![S3 Bucket](screenshots/bucket.PNG)
 
 ## Author
 Priyanka Dalavi
